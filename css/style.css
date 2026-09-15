@@ -214,7 +214,9 @@ footer a:hover {
 
 input {
   background-color: white;
-
+  border-radius: 5px;
+   border: 1px solid #9a3c3c;
+   box-shadow: 1px 1px 1px #5f4545;
 }
 
 textarea {
@@ -258,4 +260,12 @@ text-align: center;
   color: #9a3c3c;
   font-style: italic;
   font-weight: bold;
+}
+
+label {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  font-style: normal;
+  color: #9a3c3c;
 }
