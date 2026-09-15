@@ -134,9 +134,20 @@ section ul {
 .skills {
   display:flex;
   justify-content:space-around;
+  font-weight: bold;
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+nav a {
+  color: #9a3c3c;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #692828;
+  text-decoration: underline;
 }
 
 section a {
@@ -145,6 +156,16 @@ section a {
 }
 
 section a:hover {
+  color: #692828;
+  text-decoration: underline;
+}
+
+footer a {
+  color: #9a3c3c;
+  text-decoration: none;
+}
+
+footer a:hover {
   color: #692828;
   text-decoration: underline;
 }
