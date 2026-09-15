@@ -111,7 +111,7 @@ section dt{
   font-style: normal;
   color: #9a3c3c;
   text-align: left;
-  margin-right: 1rem;
+  margin-left: 10rem;
 }
 
 section dd {
@@ -119,8 +119,7 @@ section dd {
   font-style: normal;
   color: #9a3c3c;
   text-align: right;
-  margin-right: 1rem;
-  line-height: 20px;
+  margin-right: 15rem;
 }
 
 section ul {
